@@ -18,4 +18,4 @@
 
 
 # Ignore ENV vars
-#config/secrets.yml
+config/secrets.yml
